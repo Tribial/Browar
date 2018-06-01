@@ -1,0 +1,14 @@
+c:\users\domuradf\source\repos\Browar\Browar.Repositories\bin\Debug\netcoreapp2.0\Browar.Repositories.deps.json
+c:\users\domuradf\source\repos\Browar\Browar.Repositories\bin\Debug\netcoreapp2.0\Browar.Repositories.dll
+c:\users\domuradf\source\repos\Browar\Browar.Repositories\obj\Debug\netcoreapp2.0\Browar.Repositories.csprojAssemblyReference.cache
+c:\users\domuradf\source\repos\Browar\Browar.Repositories\obj\Debug\netcoreapp2.0\Browar.Repositories.csproj.CoreCompileInputs.cache
+c:\users\domuradf\source\repos\Browar\Browar.Repositories\obj\Debug\netcoreapp2.0\Browar.Repositories.AssemblyInfoInputs.cache
+c:\users\domuradf\source\repos\Browar\Browar.Repositories\obj\Debug\netcoreapp2.0\Browar.Repositories.AssemblyInfo.cs
+c:\users\domuradf\source\repos\Browar\Browar.Repositories\bin\Debug\netcoreapp2.0\Models.dll
+c:\users\domuradf\source\repos\Browar\Browar.Repositories\bin\Debug\netcoreapp2.0\Models.pdb
+c:\users\domuradf\source\repos\Browar\Browar.Repositories\obj\Debug\netcoreapp2.0\Browar.Repositories.csproj.CopyComplete
+c:\users\domuradf\source\repos\Browar\Browar.Repositories\bin\Debug\netcoreapp2.0\Browar.Repositories.runtimeconfig.json
+c:\users\domuradf\source\repos\Browar\Browar.Repositories\bin\Debug\netcoreapp2.0\Browar.Repositories.runtimeconfig.dev.json
+c:\users\domuradf\source\repos\Browar\Browar.Repositories\bin\Debug\netcoreapp2.0\Browar.Repositories.pdb
+c:\users\domuradf\source\repos\Browar\Browar.Repositories\obj\Debug\netcoreapp2.0\Browar.Repositories.dll
+c:\users\domuradf\source\repos\Browar\Browar.Repositories\obj\Debug\netcoreapp2.0\Browar.Repositories.pdb
